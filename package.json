@@ -1,0 +1,22 @@
+{
+  "name": "algo-test",
+  "version": "1.0.0",
+  "description": "si le nombre est divisible par __3__ : on écrit __Gogo__   si le nombre est divisible par __5__ : on écrit __Kodo__   si le nombre est divisible par __3__ et par __5__ : on écrit __GogoKodo__   sinon : on écrit le __nombre__",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DocteurSEO/algo-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DocteurSEO/algo-test/issues"
+  },
+  "homepage": "https://github.com/DocteurSEO/algo-test#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}

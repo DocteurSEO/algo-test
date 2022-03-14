@@ -1,4 +1,4 @@
-#Pour les nombres entre 1 et 10 :  
+#Pour les nombres entre 1 et 100 :  
 
 si le nombre est divisible par __3__ : on écrit __Gogo__  
 si le nombre est divisible par __5__ : on écrit __Kodo__  
