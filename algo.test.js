@@ -7,6 +7,7 @@ test('should call console.log 100 time', () => {
   
      expect(consoleSpy.mock.calls).toHaveLength(100);
   });
+  
   test('should the first call equal 1, second call equal 2, third call equal Gogo', () => {
     const consoleSpy = jest.spyOn(console, 'log');
      GogoKodo()
